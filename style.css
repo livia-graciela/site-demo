@@ -1,0 +1,19 @@
+h1 {
+    color: red;
+}
+
+body {
+    text-align: center;
+}
+
+div {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: fill;
+}
